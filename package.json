@@ -1,0 +1,15 @@
+{
+  "name": "karo",
+  "version": "1.0.0",
+  "description": "a bot i made i guess",
+  "main": "Index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "wayvshockGD",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
